@@ -1,0 +1,3 @@
+globalをtrue、ローカルは指定していない状態でGitKrakenでプッシュ
+
+ｓ
