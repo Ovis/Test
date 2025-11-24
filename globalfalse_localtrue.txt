@@ -1,0 +1,2 @@
+global側をfalseにして、ローカル側はtrueのまま
+これで
