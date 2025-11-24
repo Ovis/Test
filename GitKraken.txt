@@ -1,0 +1,2 @@
+GitKrakenでglobalとローカルどちらもAutoCRLF=True
+これでどうかな
