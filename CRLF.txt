@@ -1,2 +1,4 @@
 CRLFで書いたファイル
 現在の設定：AutoCRLF=True
+うまくCRLFにならない
+
